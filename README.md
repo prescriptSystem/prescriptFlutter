@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  :link: Link do vídeo do youtube explicando o funcionamento do sistema: https://youtu.be/bzMwDZdirmg?feature=shared
+  :link: Link do vídeo do youtube explicando o funcionamento do sistema: https://youtu.be/zRebZHslCvQ
 </p>
 
 
